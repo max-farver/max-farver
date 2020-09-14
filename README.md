@@ -1,4 +1,4 @@
-# Thanks for checking out my profile!
+# Thanks for checking out my profile! 👋
 
 Feel free to take a look at my personal website too!   [www.maxfarver.com](https://www.maxfarver.com)
 
