@@ -1,16 +1,16 @@
-### Hi there 👋
+# Thanks for checking out my profile!
 
-<!--
-**max-farver/max-farver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to take a look at my personal website too!   [www.maxfarver.com](https://www.maxfarver.com)
 
-Here are some ideas to get you started:
+I'm currently looking for a full time position either remote (I will be able to relocate after May of 2020) or near Ames, IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I'm a senior at Iowa State University, majoring in Software Engineering and Data Science. While finishing up my last few semesters as a part-tie semester, I plan on working full time.
+
+Throughout my college career I have participated in Hackathons and worked on side projects with my friends as a way to keep learning outside the classroom. Those great experiences have helped me to solidify the fundamentals that college gave me, and use them to broaden my abilities as a programmer overall.
+
+## Contact
+
+- By Email: maxwell.farver@gmail.com
+- Via [LinkedIn](https://www.linkedin.com/in/maxwell-farver/)
