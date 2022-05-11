@@ -1,6 +1,8 @@
 # Thanks for checking out my profile! 👋
 
-Feel free to take a look at my personal website too!
+**HEADS UP!**
+
+Most of these projects are a bit old, due to my development time being spent on work-related projects. Please reach out though if you have any questions or would like to talk!
 
 ## Contact
 
